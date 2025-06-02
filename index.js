@@ -6,10 +6,10 @@ import express  from "express"
     app.get('/',(req,res)=>{
 
 
-         res.send("Hi! This server is running now. Success fulall  lunch fila");
+         res.send("Hi! This server is running now. Success Wit jenkin  fiast deplaymet ");
     })
 
 
   app.listen(3000, () => {
-  console.log('Server running on port 3001');
+  console.log('Server running on port 3000');
 });
